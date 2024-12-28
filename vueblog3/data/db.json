@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Artikel Pertama",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae exercitationem porro quidem perferendis reiciendis impedit itaque in accusamus, quasi ratione numquam? Asperiores odio corrupti magnam quasi quia, eligendi omnis. Porro.",
+      "tags": [
+        "web",
+        "vue",
+        "node"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Artikel Kedua",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae exercitationem porro quidem perferendis reiciendis impedit itaque in accusamus, quasi ratione numquam? Asperiores odio corrupti magnam quasi quia, eligendi omnis. Porro.",
+      "tags": [
+        "js",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Artikel ke tiga",
+      "body": "Isi dari artikel tiga",
+      "tags": [
+        "vue",
+        "firebase"
+      ]
+    },
+    {
+      "id": "6795",
+      "title": "Artikel ke empat",
+      "body": "Isi artikel ke empat",
+      "tags": [
+        "vue",
+        "javascript"
+      ]
+    }
+  ]
+}
